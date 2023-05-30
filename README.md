@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Saeedmohammadiha
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning typeScript
 - 💞️ I’m looking to collaborate on any web development projects
 - 📫 How to reach me : Saeed1440124@gmail.com
 
